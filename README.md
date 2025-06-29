@@ -48,7 +48,7 @@ In under-resourced schools across India, single teachers manage multiple grades 
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/sahayak-ai-teacher.git
+git clone https://github.com/aparna62/sahayak-ai-teacher.git
 cd sahayak-ai-teacher
 
 # Install dependencies
