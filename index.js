@@ -34,9 +34,6 @@
     ]
   }
 }
-GOOGLE_APPLICATION_CREDENTIALS=path/to/service-account-key.json
-FIREBASE_PROJECT_ID=your-project-id
-GEMINI_API_KEY=your-gemini-api-key
 {
   "name": "sahayak-backend",
   "version": "1.0.0",
